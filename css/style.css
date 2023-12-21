@@ -8400,8 +8400,9 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
+    opacity: .1;
     width: 50%;
-    background: #000000; }
+    background: #3e64ff; }
   .hero-wrap .text {
     width: 100%; }
 
@@ -8919,7 +8920,7 @@ h1, h2, h3, h4, h5,
     right: 0;
     bottom: 0;
     content: '';
-    background: #3e64ff;
+    background: #fff;
     opacity: .7; }
   .ftco-hireme h2 {
     color: #fff;
@@ -9671,8 +9672,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-
-#about {
-  text-align: justify;
-  text-justify: inter-word;
-}
