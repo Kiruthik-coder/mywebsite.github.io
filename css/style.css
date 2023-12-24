@@ -9070,7 +9070,7 @@ textarea.form-control {
 .ftco-footer {
   font-size: 16px;
   background: #000000;
-  padding: 1em 0;
+  padding: 7em 0;
   z-index: 0; }
   .ftco-footer .ftco-footer-logo {
     text-transform: uppercase;
@@ -9109,8 +9109,8 @@ textarea.form-control {
   margin: 0 10px 0 0;
   display: inline-block; }
   .ftco-footer-social li a {
-    height: 50px;
-    width: 50px;
+    height: 0px;
+    width: 0px;
     display: block;
     float: left;
     background: rgba(255, 255, 255, 0.1);
